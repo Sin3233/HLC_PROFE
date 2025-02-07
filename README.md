@@ -8,3 +8,5 @@ Nombre: ==> Repo
 Manuel Moreno Casado ==> https://github.com/manuel09097/hlc_manuel.git
 
 Daniel Gómez Otero ==> https://github.com/danigomez14/HLC_DANI.git
+
+Juan Carlos Borrego Barranco ==> https://github.com/Sin3233/HLC_JC.git
